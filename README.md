@@ -38,6 +38,10 @@ The project uses the Chest X-Ray Images (Pneumonia) dataset containing Normal an
 * Pneumonia Precision: 87%
 * Pneumonia Recall: 97%
 
+## Uploading one X-ray image and checking the model prediction
+<img width="1780" height="1214" alt="image" src="https://github.com/user-attachments/assets/b9bb5109-cd8b-4418-ad21-b914aee8e08c" />
+<img width="774" height="1180" alt="image" src="https://github.com/user-attachments/assets/3cad7157-83f4-4d37-993a-9ba8a5bc6981" />
+
 ## Conclusion
 
 The CNN model successfully learned features from chest X-ray images and was able to distinguish between Normal and Pneumonia cases with good accuracy.
